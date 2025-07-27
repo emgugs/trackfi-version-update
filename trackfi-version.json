@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.5",
+  "latest_version": "1.0.3",
   "force_update": true,
-  "min_supported_version": "1.0.5",
+  "min_supported_version": "1.0.3",
   "release_notes": [
     "🐛 Resolved bug while turning on voice feature",
     "🎨 Improved UI of expense modal",
